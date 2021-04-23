@@ -11,8 +11,10 @@ sont détaillés.
 
 Concernant l'exécution, plusieurs possibilités: 
 
-* vous pouvez aller sur  https://mybinder.org et simplement donner l'adresse de ce dépôt sur github 
-(https://github.com/jjfPCSI1/notebooks_introduction_python)
+* vous pouvez aller sur https://mybinder.org et simplement donner l'adresse de 
+ce dépôt sur github 
+(https://github.com/jjfPCSI1/notebooks_introduction_python). Attention, cela 
+peut prendre un peu de temps au démarrage...
 
 * si vous avez un compte google, vous pouvez aller sur 
 https://colab.research.google.com/ et de la même manière aller dans l'onglet 
